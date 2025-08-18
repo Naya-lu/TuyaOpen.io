@@ -46,7 +46,7 @@ title: T5AI-Board 概述
 
 ---
 ## 开发套件亮点
-- 涂鸦 T5 MCU 模块（Wi-Fi 2.4G + BLE 5.4）
+- 涂鸦 T5 MCU 模块（Wi-Fi 2.4 GHz + BLE 5.4）
 - 8 MB Flash
 - 16 MB RAM
 - 串行固件下载和调试日志
